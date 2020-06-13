@@ -1,0 +1,33 @@
+/* .form-group.excerpt .CodeMirror  { */
+	/* height: 130px;  */
+	/* min-height: 130px; */
+/* } */
+
+a.selected-status {
+	font-weight: bold;
+}
+
+/**** Simple MDE ****/
+/* .simplemde-fullscreen .modal-dialog {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	max-width: 100%;
+	margin: 0;
+}
+  
+.CodeMirror, .CodeMirror-scroll {
+	min-height: 130px;
+} */
+
+/**** CK Editor ****/
+/* .form-group.excerpt .ck-editor__editable_inline {
+    min-height: 130px;
+} 
+
+.form-group.body .ck-editor__editable_inline {
+    min-height: 500px;
+}  */
